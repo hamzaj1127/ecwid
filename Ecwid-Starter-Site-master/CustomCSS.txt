@@ -1,0 +1,21 @@
+I made this so you can see the custom code in here
+
+
+/*Button color*/
+.ec-size .ec-store .form-control--primary .form-control__button 
+{ background-color: #333333;}
+
+/*Button color on hover*/
+.ec-size .ec-store .form-control--primary .form-control__button:hover {
+background:  #750001;
+}
+
+/*Text color*/
+.ec-size .ec-store .form-control--primary .form-control__button {
+color: white;
+}
+
+/*Text color on hover*/
+.ec-size .ec-store .form-control--primary .form-control__button:hover {
+color: black;
+}
